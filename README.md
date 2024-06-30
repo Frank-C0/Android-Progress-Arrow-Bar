@@ -1,6 +1,6 @@
 # Segunda Parte Examen
 
-![Ejemplo GIF](gif.gif)
+<img src="gif.gif" width="300">
 
 ## Enlace del Video de Ejecución
 [https://drive.google.com/file/d/1hTGGND73wb5hz1TI2azRhxkdUAiyFap-/view?usp=sharing](https://drive.google.com/file/d/1hTGGND73wb5hz1TI2azRhxkdUAiyFap-/view?usp=sharing)
